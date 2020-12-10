@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.64
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupBar_selection", "GroupBar_selection.csproj", "{A4A615DE-8553-42F3-8FD5-A2EF0AA5DAE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4A615DE-8553-42F3-8FD5-A2EF0AA5DAE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A615DE-8553-42F3-8FD5-A2EF0AA5DAE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A615DE-8553-42F3-8FD5-A2EF0AA5DAE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A615DE-8553-42F3-8FD5-A2EF0AA5DAE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB834186-E887-4C3C-A94A-56EA8A4FEA26}
+	EndGlobalSection
+EndGlobal
